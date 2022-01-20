@@ -1,0 +1,22 @@
+.white-color{
+    background-color: #FCEAE8;
+}
+.pink-color{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.yellow-color{
+    background-color: #FBA500;
+}
+.low-pink{
+    background-color: #DA70D6;
+}
+.blue-color{
+    background-color: #0006FF;
+}
+.catagories img {
+    width: 100px;
+}
